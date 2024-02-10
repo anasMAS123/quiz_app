@@ -1,0 +1,92 @@
+[
+  {
+    "no": 1,
+    "text": "the king of animals is ____",
+    "answer1": "lion",
+    "answer2": "elephant",
+    "answer3": "cheeta",
+    "answer4": "tiger",
+    "correct": "lion"
+  },
+  {
+    "no": 2,
+    "text": "the fastest animal is ____",
+    "answer1": "lion",
+    "answer2": "elephant",
+    "answer3": "cheeta",
+    "answer4": "tiger",
+    "correct": "cheeta"
+  },
+  {
+    "no": 3,
+    "text": "the biggest animal is ____",
+    "answer1": "lion",
+    "answer2": "elephant",
+    "answer3": "cheeta",
+    "answer4": "tiger",
+    "correct": "elephant"
+  },
+  {
+    "no": 4,
+    "text": "the longest neck animal  is ____",
+    "answer1": "cat",
+    "answer2": "frog",
+    "answer3": "cheeta",
+    "answer4": "giraffe",
+    "correct": "giraffe"
+  },
+  {
+    "no": 5,
+    "text": "the smallest animal is ____",
+    "answer1": "cat",
+    "answer2": "frog",
+    "answer3": "ant",
+    "answer4": "fly",
+    "correct": "ant"
+  },
+  {
+    "no": 6,
+    "text": "Black eggs called caviar come from which fish?",
+    "answer1": "Salmon",
+    "answer2": "Sturgeon",
+    "answer3": "Pike",
+    "answer4": "Cod",
+    "correct": "Sturgeon"
+  },
+  {
+    "no": 7,
+    "text": "What is Australia's tallest bird?",
+    "answer1": "Cassowary",
+    "answer2": "Kiwi",
+    "answer3": "Ostrich",
+    "answer4": "Emu",
+    "correct": "Emu"
+  },
+  {
+    "no": 8,
+    "text": "This flightless bird had no natural predators as it lived in a remote place.When Europeans came they brought rats, pigs and monkeys which ate its eggs and by 1680 they were extinct.",
+    "answer1": "Dodo",
+    "answer2": "Moa",
+    "answer3": "Elephant Bird",
+    "answer4": "Great Auk",
+    "correct": "Dodo"
+  },
+  {
+    "no": 9,
+    "text": "Name the strongest insect which can lift and support more than 800 times its own weight.",
+    "answer1": "Termite",
+    "answer2": "Army ant",
+    "answer3": "Goliath beetle",
+    "answer4": "Rhinoceros beetle",
+    "correct": "Rhinoceros beetle"
+  },
+  {
+    "no": 10,
+    "text": "Name the largest living animal, which can grow to an average weight of 26 tonnes by the age of twelve months?",
+    "answer1": "Humpback whale",
+    "answer2": "Whale shark",
+    "answer3": "Blue whale",
+    "answer4": "African elephant",
+    "correct": "Blue whale"
+  }
+]
